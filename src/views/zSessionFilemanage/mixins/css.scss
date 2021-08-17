@@ -1,0 +1,8 @@
+.msf-session-filemanage {
+  height: calc((100vh - 84px) * 0.5 + 24px);
+}
+.item-ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}

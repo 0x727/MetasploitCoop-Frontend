@@ -1,0 +1,18 @@
+.msf-session-event {
+  height: calc((100vh - 84px) * 0.5 - 24px);
+  .left, .right {
+      height: calc((100vh - 84px) * 0.5 + 24px);
+  }
+}
+.infinite-list {
+    height: calc((100vh - 84px) * 0.5  + 24px - 28px);
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.infinite-list-right {
+    height: calc((100vh - 84px) * 0.5  + 24px);
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
